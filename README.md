@@ -5,8 +5,8 @@ Tenho inglês avançado.
 Eu estou a procura de um estagio e de colaborar com o mundo.
 Você consegue me encontar no instagram (@_helenaluz_) ou no LinkedIn (https://www.linkedin.com/in/helena-luz-139430214/)
 
-Hello, I'm Helena Luz, I'm 18 y/o and I'm Brazilian, I also love programming.
-In the moment in the the first semster of CompSci at FURB.
+Hello, I'm Helena Luz, I'm 18 y/o and I'm Brazilian, and also... I LOVE programming.
+In the moment I am in the the first semester of CompSci at FURB.
 I already know JAVA and Phyton, and I'm currently studying Front-End (HTML, CSS and Javascript);
 I'm fluent in portuguese.
 I'm on the look out for a internship and to collaborate with the world.
