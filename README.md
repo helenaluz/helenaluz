@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @helenaluz
-- 👀 I’m interested in cats, programming and etc
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on the world
-- 📫 How to reach me intagram @_helenaluz_
+Olá Mundo, sou Helena Luz, tenho 18 anos, sou brasileira e adoro progamar 👾.
+No momento estou cursando o 1 semestre de ciência da computação na FURB.
+Já sei JAVA e phyton e agora estou estudando "Front-End" (HTML, CSS, JavaScript).
+Tenho inglês avançado.
+Eu estou a procura de um estagio e de colaborar com o mundo.
+Você consegue me encontar no instagram (@_helenaluz_) ou no LinkedIn (https://www.linkedin.com/in/helena-luz-139430214/)
 
-<!---
-helenaluz/helenaluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, I'm Helena Luz, I'm 18 y/o and I'm Brazilian, I also love programming.
+In the moment in the the first semster of CompSci at FURB.
+I already know JAVA and Phyton, and I'm currently studying Front-End (HTML, CSS and Javascript);
+I'm fluent in portuguese.
+I'm on the look out for a internship and to collaborate with the world.
+You can reach me at Instagram (@_helenaluz_) or at LinkedIn (https://www.linkedin.com/in/helena-luz-139430214/)
+
+![ProgrammingGIF](https://user-images.githubusercontent.com/99624336/229231357-e67e0088-0fb9-4fa7-908b-555ed0bae5f9.gif)
+
