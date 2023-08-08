@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/helena-luz-139430214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helena-luz-139430214" height="30" width="40" /></a>
 <a href="https://instagram.com/_helenaluz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_helenaluz_" height="30" width="40" /></a>
-<a href="https://discord.gg/393131786735058944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="393131786735058944" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas</h3>
