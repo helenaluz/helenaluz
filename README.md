@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, meu nome é Helena</h1>
 <h3 align="center">Sou uma programadora apaixonada por pelo o que eu faço</h3>
 
-- 🔭 Participo do programa **+Devs2Blu C# 2023**
+- 🔭 Sou **Programadora Aprendiz** na **Benner Sistemas**
 
 - 🌱 Estou cursando **Ciência da Computação**
 
